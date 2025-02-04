@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Baleares</title>
+        <link>https://www.diariodemallorca.es/</link>
+        <description>Últimas noticias de Baleares</description>
+        <language>es</language>
+        <item>
+            <title>Disminuyen los casos de gripe en Baleares tras la vuelta al cole</title>
+            <link>https://www.diariodemallorca.es/mallorca/2025/02/03/disminuyen-casos-gripe-baleares-vuelta-113967817.html</link>
+            <description>Los casos de gripe en Baleares han disminuido tras la vuelta a las aulas, según los últimos informes de salud.</description>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>https://www.diariodemallorca.es/mallorca/2025/02/03/disminuyen-casos-gripe-baleares-vuelta-113967817.html</guid>
+        </item>
+    </channel>
+</rss>
